@@ -1,7 +1,5 @@
 mountpoints:
-  /:
-    url: https://content.da.live/{org}/{site}/
-    type: markup
+  /: https://drive.google.com/drive/u/0/folders/1zg6lJuMynEFHDdDMtLg7BeHhbiJ3NulK
 
 folders:
   /products/: /products/default
